@@ -1,2 +1,4 @@
-# Hacking
-dongmin's study group hacking all the system, web
+## Hacking
+webhacking and pwnable study
+2019.03~
+
