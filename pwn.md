@@ -1,24 +1,55 @@
+## 포너블 기초 커리큘럼
+
 1. C언어 기초 
-2. * 문자열 
+
+   - 문자열 
+
    * 배열 
    * 포인터 
    * 등.... 
-3. BOF 핸드북 (bof_handbook.pdf) 
-4. assembly 문서 (asm.pdf) 
-5. 달고나 문서 (buffer_overflow_foundation_pub.pdf) 
-6. LoB 
 
+2. BOF 핸드북 (bof_handbook.pdf) 
 
+3. assembly 문서 (asm.pdf) 
 
-문서 링크 
+4. 달고나 문서 (buffer_overflow_foundation_pub.pdf) 
 
-<https://o365cbnu-my.sharepoint.com/:f:/g/personal/ckato112_cbnu_ac_kr/EsFcMpksw2NOqfhy9kyS45IBuyfW6jsC_hDkdTZYzywuKA?e=PiQ8dC>
+5. 샤의 공간 문서
 
+6. LoB (Lord of Bufferoverflow)
 
+-------------
 
-병행하면 좋은 문서들 
+2번 먼저 한 후 3번 4번 5번 병행
 
-* https://shayete.tistory.com/entry/1-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%95%B4%ED%82%B9%EC%9D%B4%EB%9E%80-linux-%EA%B8%B0%EC%B4%88%EB%AA%85%EB%A0%B9%EC%96%B4-vim-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%B2%95 
+## 과제
+
+- C언어 기초 
+- 리눅스 기본 명령어
+- bof 핸드북 병행
+
+기한 : 4월 10일 까지 
+
+* bof 핸드북 
+* assembly 문서 
+* bof 기초 강좌 
+* gdb 사용법 익히기
+
+기한 : 4월 3일 까지 
+
+------------
+
+- 각종 문서 읽으면서 gdb사용법/디버깅 방법 숙지
+- 스택구조 파악
+- LoB 1번 삽질 (풀면 더 좋음)
+
+-------
+
+기한 : 4월 8일까지
+
+## 문서
+
+- [pdf문서](https://o365cbnu-my.sharepoint.com/:f:/g/personal/ckato112_cbnu_ac_kr/EsFcMpksw2NOqfhy9kyS45IBuyfW6jsC_hDkdTZYzywuKA?e=PiQ8dC)
 
 * BOF 기초 강좌 모음 
 
@@ -29,27 +60,12 @@
 
 * gdb 사용법 및 메모리 구조 문서 
 
-  - https://bpsecblog.wordpress.com/2016/03/08/gdb_memory_1/>
+  - https://bpsecblog.wordpress.com/2016/03/08/gdb_memory_1/
 
+* 샤의 공간
 
+  * [기초](https://shayete.tistory.com/entry/1-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%95%B4%ED%82%B9%EC%9D%B4%EB%9E%80-linux-%EA%B8%B0%EC%B4%88%EB%AA%85%EB%A0%B9%EC%96%B4-vim-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%B2%95 )
+  * [gdb명령어](<https://shayete.tistory.com/entry/2-Stack-Corruption-gdb-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
+  * [어셈 및 핸드레이](<https://shayete.tistory.com/entry/3-%ED%95%B8%EB%93%9C%EB%A0%88%EC%9D%B4-%EA%B8%B0%EB%B3%B8-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
+  * [RTL](<https://shayete.tistory.com/entry/4-Return-to-Library-RTL?category=857069>)
 
-------
-
-과제) 
-
-* C언어 기초 
-* bof 핸드북 병행 
-
-기한 : 4월 10일 까지 
-
-* bof 핸드북 
-* assembly 문서 
-* bof 기초 강좌 
-
-기한 : 4월 3일 까지 
-
-------
-
-\+ 리눅스 명령어 공부 
-
-\+ gdb사용법 
