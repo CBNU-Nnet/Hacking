@@ -58,9 +58,10 @@
   * <https://www.hackerschool.org/HS_Boards/data/Lib_system/getroot.txt>
   * <https://www.hackerschool.org/HS_Boards/data/Lib_system/lamagra.txt>
 
-* gdb 사용법 및 메모리 구조 문서 
+* gdb 사용법 및 메모리 구조
 
   - https://bpsecblog.wordpress.com/2016/03/08/gdb_memory_1/
+  - <https://bpsecblog.wordpress.com/2016/04/04/gdb_memory_2/>
 
 * 샤의 공간
 
