@@ -34,6 +34,7 @@
 * assembly 문서 
 * bof 기초 강좌 
 * gdb 사용법 익히기
+* 달고나 문서 틈틈히
 
 기한 : 4월 3일 까지 
 
@@ -48,8 +49,6 @@
 기한 : 4월 8일까지
 
 ## 문서
-
-- [pdf문서](https://o365cbnu-my.sharepoint.com/:f:/g/personal/ckato112_cbnu_ac_kr/EsFcMpksw2NOqfhy9kyS45IBuyfW6jsC_hDkdTZYzywuKA?e=PiQ8dC)
 
 * BOF 기초 강좌 모음 
 
