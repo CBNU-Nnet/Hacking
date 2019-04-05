@@ -69,3 +69,7 @@
   * [어셈 및 핸드레이](<https://shayete.tistory.com/entry/3-%ED%95%B8%EB%93%9C%EB%A0%88%EC%9D%B4-%EA%B8%B0%EB%B3%B8-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
   * [RTL](<https://shayete.tistory.com/entry/4-Return-to-Library-RTL?category=857069>)
 
+
+
+- LoB (Lord of Bufferoverflow)
+  - <https://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&no=1170881885>
