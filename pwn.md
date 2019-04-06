@@ -73,3 +73,5 @@
 
 - LoB (Lord of Bufferoverflow)
   - <https://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&no=1170881885>
+  - [Lob Tips (풀기 전 알아야 할 것들)](<https://intadd.tistory.com/106>)
+
