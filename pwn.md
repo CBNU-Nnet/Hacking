@@ -57,16 +57,18 @@
   * <https://www.hackerschool.org/HS_Boards/data/Lib_system/getroot.txt>
   * <https://www.hackerschool.org/HS_Boards/data/Lib_system/lamagra.txt>
 
-* gdb 사용법 및 메모리 구조
+* 블랙펄 문서
 
-  - https://bpsecblog.wordpress.com/2016/03/08/gdb_memory_1/
-  - <https://bpsecblog.wordpress.com/2016/04/04/gdb_memory_2/>
+  * 우리집에 GDB 있는데… 메모리 보고갈래?
+    * https://bpsecblog.wordpress.com/2016/03/08/gdb_memory_1/
+    * <https://bpsecblog.wordpress.com/2016/04/04/gdb_memory_2/>
+    * <https://bpsecblog.wordpress.com/2016/05/20/gdb_memory_3/>
 
 * 샤의 공간
 
   * [기초](https://shayete.tistory.com/entry/1-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%95%B4%ED%82%B9%EC%9D%B4%EB%9E%80-linux-%EA%B8%B0%EC%B4%88%EB%AA%85%EB%A0%B9%EC%96%B4-vim-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%B2%95 )
   * [gdb명령어](<https://shayete.tistory.com/entry/2-Stack-Corruption-gdb-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
-  * [어셈 및 핸드레이](<https://shayete.tistory.com/entry/3-%ED%95%B8%EB%93%9C%EB%A0%88%EC%9D%B4-%EA%B8%B0%EB%B3%B8-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
+  * [q어셈 및 핸드레이](<https://shayete.tistory.com/entry/3-%ED%95%B8%EB%93%9C%EB%A0%88%EC%9D%B4-%EA%B8%B0%EB%B3%B8-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
   * [RTL](<https://shayete.tistory.com/entry/4-Return-to-Library-RTL?category=857069>)
 
 
