@@ -68,7 +68,7 @@
 
   * [기초](https://shayete.tistory.com/entry/1-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%95%B4%ED%82%B9%EC%9D%B4%EB%9E%80-linux-%EA%B8%B0%EC%B4%88%EB%AA%85%EB%A0%B9%EC%96%B4-vim-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%B2%95 )
   * [gdb명령어](<https://shayete.tistory.com/entry/2-Stack-Corruption-gdb-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
-  * [q어셈 및 핸드레이](<https://shayete.tistory.com/entry/3-%ED%95%B8%EB%93%9C%EB%A0%88%EC%9D%B4-%EA%B8%B0%EB%B3%B8-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
+  * [어셈 및 핸드레이](<https://shayete.tistory.com/entry/3-%ED%95%B8%EB%93%9C%EB%A0%88%EC%9D%B4-%EA%B8%B0%EB%B3%B8-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%AA%85%EB%A0%B9%EC%96%B4?category=857069>)
   * [RTL](<https://shayete.tistory.com/entry/4-Return-to-Library-RTL?category=857069>)
 
 
