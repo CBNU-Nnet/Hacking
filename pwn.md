@@ -82,6 +82,7 @@
 - LoB (Lord of Bufferoverflow)
   - <https://www.hackerschool.org/HS_Boards/zboard.php?id=HS_Notice&no=1170881885>
   - [Lob Tips (풀기 전 알아야 할 것들)](<https://intadd.tistory.com/106>)
+  - [기초에 심하게 충실한 LoB 풀이](<https://conchiholic.github.io/wargame/lob/2018/08/02/LOB_1_1.html>)
   - 쉘코드
     - "\x31\xc0\x50\xba\x2e\x2e\x72\x67\x81\xc2\x01\x01\x01\x01\x52\xb9\x2e\x62\x69\x6e\x83\xc1\x01\x51\x89\xe3\x50\x53\x89\xe1\x89\xc2\xb0\x0b\xcd\x80"
 
