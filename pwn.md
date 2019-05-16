@@ -91,13 +91,14 @@
   - [기초에 심하게 충실한 LoB 풀이](<https://conchiholic.github.io/wargame/lob/2018/08/02/LOB_1_1.html>)
   - 쉘코드
     - "\x31\xc0\x50\xba\x2e\x2e\x72\x67\x81\xc2\x01\x01\x01\x01\x52\xb9\x2e\x62\x69\x6e\x83\xc1\x01\x51\x89\xe3\x50\x53\x89\xe1\x89\xc2\xb0\x0b\xcd\x80"
-
 - 함수 프롤로그 & 에필로그 & 스택프레임 & 호출규약
   - http://woosunbi.tistory.com/attachment/cfile10.uf@2513A04B56EE7B9A248C70.pdf
   - <https://shotgh.tistory.com/33>
   - <https://phaphaya.tistory.com/25>
   - <https://harin-luna.tistory.com/entry/%ED%95%A8%EC%88%98-%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8Prolog-%EC%97%90%ED%95%84%EB%A1%9C%EA%B7%B8Epilog>
   - <https://wlgns595919.tistory.com/5>
+- 메모리 보호기법 정리
+  - <https://bpsecblog.wordpress.com/memory_protect_linux/>
 
 ## 환경 세팅
 
