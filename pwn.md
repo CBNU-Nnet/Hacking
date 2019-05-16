@@ -51,11 +51,17 @@
 - LoB 다 풀기
   - 라이트업
 
---------
-
 기한 :  5월 8일 까지
 
+--------
 
+- pwnable.kr 회원가입
+- pwnable.kr fd
+- pwnable.kr bof
+
+기한 : 5월 22일 까지
+
+----
 
 ## 문서
 
@@ -92,3 +98,16 @@
   - <https://phaphaya.tistory.com/25>
   - <https://harin-luna.tistory.com/entry/%ED%95%A8%EC%88%98-%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8Prolog-%EC%97%90%ED%95%84%EB%A1%9C%EA%B7%B8Epilog>
   - <https://wlgns595919.tistory.com/5>
+
+## 환경 세팅
+
+**포너블 문제 풀이 환경 세팅**
+
+- ubuntu 16.04 서버 64비트
+  - vm / 클라우드 / 개인서버 / 동아리 서버 등 아무거나 편한 걸로
+- python2 + pwntools
+  - pip install pwntools
+  - <https://github.com/Gallopsled/pwntools>
+- xshell + lrzsz
+  - sz와 rz를 쓰면 xshell 을 통해 파일을 자유롭게 업로드/다운로드 할 수 있음.
+  - 설치 : apt update && apt install lrzsz
