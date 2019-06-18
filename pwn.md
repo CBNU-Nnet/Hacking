@@ -112,3 +112,23 @@
 - xshell + lrzsz
   - sz와 rz를 쓰면 xshell 을 통해 파일을 자유롭게 업로드/다운로드 할 수 있음.
   - 설치 : apt update && apt install lrzsz
+
+---
+
+## 방학 때 할 것들
+
+- rop 연습 (대회 문제 풀기)
+   - ropasaurusrex 풀기
+   - angry doraemon
+ - pwnable.kr
+   - fd, bof
+   - horcruxes
+   - simple login
+   - brain fuck
+   - md5 calc
+   - echo1
+   - ascii easy
+   - toodler's bottle 5개 이상 풀기
+
+- root-me.org
+  - system crack 문제 순차적으로 쭉 풀면됨
